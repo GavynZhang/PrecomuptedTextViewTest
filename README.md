@@ -1,0 +1,2 @@
+# PrecomuptedTextViewTest
+使用PrecomputedTextCompat进行TextView性能优化的测试项目
